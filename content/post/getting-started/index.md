@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: 7 простых советов для программиста, которые сберегут его зрение
+subtitle: Усталость глаз, их покраснение, сухость и плохое зрение — 4 всадника работы программистом. Даже одного симптома достаточно, чтобы взять во внимание следующие рекомендации. Мы собрали несколько простых советов, которые предотвратят ухудшение вашего зрения.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Усталость глаз, их покраснение, сухость и плохое зрение — 4 всадника работы программистом. Даже одного симптома достаточно, чтобы взять во внимание следующие рекомендации. Мы собрали несколько простых советов, которые предотвратят ухудшение вашего зрения.
 
 # Link this post with a project
 projects: []
@@ -30,81 +30,38 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
   - Academic
-  - 开源
 
 categories:
-  - Demo
-  - 教程
+  - Программирование
 ---
 
-```python
-import libr
-print('hello')
-```
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+1. Самое банальное, но не бесполезное — давайте глазам отдыхать
+Это прописано даже в трудовом кодексе РФ. Там есть зависимость длительности отдыха от характера работы за компьютером. Программистам рекомендуется делать 15-минутный перерыв каждые 2 часа работы.
+В перерывах полезно делать гимнастику для глаз, но о ней чуть позже. Если не можете выработать привычку вовремя отвлекаться от работы, то обратитесь за помощью к будильнику или специальным приложениям-напоминалкам на ПК/смартфон.
+2. Настройте яркость экрана
+Тут довольно простое правило: яркость экрана должна совпадать с яркостью окружения. Иначе глазам будет неприятно перестраиваться под разный уровень яркости. А про работу ночью в неосвещённой комнате лучше забыть вообще.
+Вот такие есть варианты для работы ночью:
+ - Не работайте ночью, идите спать.
+ - Работайте ночью только с включённым светом в комнате.
+ - Если освещать всю комнату не вариант, то подарите своему монитору фоновую подсветку. Можно даже просто разместить за монитором лампу. Стильно и для глаз полезно. Если хотите больше красок, то смотрите в сторону Ambilight.
+Сейчас каждый монитор или система оснащается специальным ночным режимом, который заменяет все холодные тона на тёплые, из-за чего вашим глазам становится комфортнее смотреть в экран.
+3. Объявляем войну бликам
+Если есть блики на экране, значит контрастность картинки снижается, значит вы сильнее вглядываетесь в монитор, от чего ваши глаза сильнее устают.
+В некоторых случаях поможет перестановка монитора или просто закрытые шторы. В других случаях не обойдётся без покупки монитора с анти-бликовым покрытием или аналогичного фильтра на экран.
+Если блики в основном от внутренних источников света, то позаботьтесь, чтобы свет был рассеянным.
+4. Компьютерные очки
+Это не те, которые в дырочку, а которые желтоватые или розоватые. Они, как и ночной режим монитора, блокируют синие тона, поэтому глазам намного комфортней. Также они приглушают блики, за что глаза будут вам благодарны.
+5. Делаем гимнастику для глаз
+Для глаз гимнастика важна так же, как и для тела. В наших глазах тоже есть мышцы, которые нужно держать в форме, иначе они начнут слабеть. Упражнений для глаз очень много, мы лишь расскажем о некоторых из них.
+6. Расположение монитора
+Если вкратце, то монитор должен быть на 15–20 градусов ниже от центра ваших глаз и располагаться на расстоянии вытянутой руки. Для монитора можно приобрести специальные подставки, а можно обойтись «народным» способом — подложить книги или что-то похожее.
+7. Избавляемся от сухости глаз
+За конкретным препаратом лучше сходить к специалисту — окулисту. Но если вкратце, то вам нужны именно увлажняющие капли. Иначе можете случайно взять капли от покраснений глаз, которые наоборот их сушат. Лучше не гадать и просто обратиться к врачу — он подберёт для вас лучшее решение.
+ 
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
-
-## Get Started
-
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
-
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
